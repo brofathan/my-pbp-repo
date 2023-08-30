@@ -1,1 +1,1 @@
-# my-pbp-repo
+# shopping-list
